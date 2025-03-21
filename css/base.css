@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+html {
+    scroll-behavior: smooth;
+   
+  }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: var(--mainFont);
+    scrollbar-color: #A149ED  #ffffff;
+
+}
+
+:root{
+    --mainColor : #A249ED ;
+    --mainFont :"Urbanist", serif;
+    --chy-gd: linear-gradient(32deg, #a249ed 20%, #6131e8 100%);
+    --chy-gd2: linear-gradient(90deg, #9255CE -2.17%, #be60ff 100%);
+}
+
+section {
+ 
+    padding: 100px 0px;
+}
+
+
